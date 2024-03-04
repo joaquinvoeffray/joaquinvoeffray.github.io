@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JJbirras - Brewing Enthusiast</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f8ff;
+            color: #000000;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #008000;
+            color: #ffffff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            padding: 2em;
+        }
+
+        h2 {
+            color: #008000;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #008000;
+            color: #ffffff;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>JJbirras</h1>
+        <p>Brewing Enthusiast</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Welcome to my personal webpage! I'm passionate about brewing beer and would like to share my knowledge with you.</p>
+    </section>
+
+    <section>
+        <h2>Brewery Insights</h2>
+        <p>Explore the esquema y funciones de una planta de cerveza (brewery layout and functions) with me and discover the art and science behind crafting the perfect brew.</p>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Feel free to reach out if you have any questions or just want to chat about brewing. Cheers!</p>
+        <p>Email: your.email@example.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 JJbirras - Brewing Enthusiast</p>
+    </footer>
+</body>
+
+</html>
